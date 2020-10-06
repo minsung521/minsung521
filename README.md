@@ -1,4 +1,17 @@
-<!-- [![minsung-dev's github stats](https://github-readme-stats.vercel.app/api?username=minsung-dev)](https://github.com/minsung-dev) -->
+Welcome to my github profile!
+
+[![minsung-dev's github stats](https://github-readme-stats.vercel.app/api?username=minsung-dev)](https://github.com/minsung-dev)
+
+### I'm currently interested in
+
+    -TensorFlow
+    -C++
+    -React JS
+    -Javascript
+    -Arduino/Raspberry pi
+    -python
+    -django
+    -nodejs
 
 <!--
 **minsung-dev/minsung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
