@@ -2,7 +2,7 @@ Welcome to my github profile!
 
 [![minsung-dev's github stats](https://github-readme-stats.vercel.app/api?username=minsung-dev)](https://github.com/minsung-dev)
 
-### I'm currently interested in
+### I'm currently interested in ...
 
     -TensorFlow
     -C++
@@ -12,6 +12,13 @@ Welcome to my github profile!
     -python
     -django
     -nodejs
+
+### I'm currently studying ...
+
+    -TensorFlow/Tensorflow.js
+    -python
+    -React JS
+    -dynamic programming
 
 <!--
 **minsung-dev/minsung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
