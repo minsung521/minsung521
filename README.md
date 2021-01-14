@@ -19,6 +19,7 @@ Welcome to my github profile!
     -python
     -React JS
     -dynamic programming
+    -vanilla js
 
 <!--
 **minsung-dev/minsung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
