@@ -1,4 +1,3 @@
-Welcome to my github profile!
 
 [![minsung-dev's github stats](https://github-readme-stats.vercel.app/api?username=minsung-dev)](https://github.com/minsung-dev)
 
@@ -13,7 +12,7 @@ Welcome to my github profile!
     -django
     -nodejs
 
-### I'm currently studying ...
+### I’m currently learning ...
 
     -TensorFlow/Tensorflow.js
     -python
