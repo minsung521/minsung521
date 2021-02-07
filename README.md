@@ -1,5 +1,25 @@
 
 [![minsung-dev's github stats](https://github-readme-stats.vercel.app/api?username=minsung-dev)](https://github.com/minsung-dev)
+한국디지털미디어고등학교 20기 웹프로그래밍과 김민성입니다!
+
+### 관심을 가진 분야 ...
+
+    -TensorFlow
+    -C++
+    -React JS
+    -Javascript
+    -Arduino/Raspberry pi
+    -python
+    -django
+    -nodejs
+
+### 배우고 있는 것들 ...
+
+    -TensorFlow/Tensorflow.js
+    -python
+    -React JS
+    -dynamic programming
+    -vanilla js
 
 ### I'm currently interested in ...
 
