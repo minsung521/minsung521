@@ -1,6 +1,6 @@
 
 [![minsung's github stats](https://github-readme-stats.vercel.app/api?username=minsung521)](https://github.com/minsung521)
-#한국디지털미디어고등학교 20기 웹프로그래밍과 김민성입니다!
+# 한국디지털미디어고등학교 20기 웹프로그래밍과 김민성입니다!
 
 ### 관심을 가진 분야 ...
 
