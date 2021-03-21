@@ -17,10 +17,10 @@
 ### 배우고 있는 것들 ...
 
     -TensorFlow/Tensorflow.js
-    -python
     -React JS
     -dynamic programming
     -vanilla js
+    -nodejs
 
 ### I'm currently interested in ...
 
@@ -36,10 +36,10 @@
 ### I’m currently learning ...
 
     -TensorFlow/Tensorflow.js
-    -python
     -React JS
     -dynamic programming
     -vanilla js
+    -nodejs
 
 <!--
 **minsung-dev/minsung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
