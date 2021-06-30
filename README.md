@@ -5,16 +5,14 @@
 ### I'm currently interested in ...
 
     -TensorFlow
-    -C++/C
-    -React JS
-    -Javascript
+    -Machine Learning
     -Arduino/Raspberry pi
     -python
     -django
-    -nodejs
 
 ### I’m currently learning ...
 
+    -C/C++
     -Flutter/Dart
     -React JS
     -nodejs
