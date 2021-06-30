@@ -1,31 +1,11 @@
 [![minsung's github stats](https://github-readme-stats.vercel.app/api?username=minsung521)](https://github.com/minsung521)
-<br/>한국디지털미디어고등학교 20기 웹프로그래밍과 김민성입니다!
+<br/>한국디지털미디어고등학교 20기 웹프로그래밍과 김민성
 
-
-
-### 관심을 가진 분야 ...
-
-    -TensorFlow
-    -C++
-    -React JS
-    -Javascript
-    -Arduino/Raspberry pi
-    -python
-    -django
-    -nodejs
-
-### 배우고 있는 것들 ...
-
-    -TensorFlow/Tensorflow.js
-    -React JS
-    -dynamic programming
-    -vanilla js
-    -nodejs
 
 ### I'm currently interested in ...
 
     -TensorFlow
-    -C++
+    -C++/C
     -React JS
     -Javascript
     -Arduino/Raspberry pi
@@ -35,10 +15,8 @@
 
 ### I’m currently learning ...
 
-    -TensorFlow/Tensorflow.js
+    -Flutter/Dart
     -React JS
-    -dynamic programming
-    -vanilla js
     -nodejs
 
 <!--
