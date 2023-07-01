@@ -1,3 +1,4 @@
+<--
 [![minsung's github stats](https://github-readme-stats.vercel.app/api?username=minsung521)](https://github.com/minsung521)
 <br/>한국디지털미디어고등학교 20기 웹프로그래밍과 김민성
 <br/>[포트폴리오](http://mingsung.me/)
@@ -30,4 +31,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--
+
 -->
